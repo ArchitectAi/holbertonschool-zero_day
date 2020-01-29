@@ -1,2 +1,2 @@
-this project is abouut creating a branch in git
+this actualization is for the las point of git challenge
 
